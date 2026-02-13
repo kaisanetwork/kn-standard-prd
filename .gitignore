@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+
+# Node/pnpm artifacts (if local tooling is used)
+node_modules/
+.pnpm-store/
