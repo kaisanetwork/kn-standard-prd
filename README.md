@@ -1,4 +1,4 @@
-# Standard PRD
+# Standard Product Requirements Document (PRD) Skill
 
 ![KN Standard PRD Header](Standard_PRD_Header.png)
 
